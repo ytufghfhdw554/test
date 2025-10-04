@@ -1,3 +1,3 @@
 @echo off
-taskkill /IM tModLoader.exe /F
+taskkill /IM Steam.exe /F
 
