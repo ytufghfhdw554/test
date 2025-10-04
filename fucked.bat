@@ -2,11 +2,11 @@
 color 0c
 title get fucked
 cls
-o:
-echo get fucked by madly
-goto:
+
+rem Launches the specified YouTube video in Chrome
 start chrome https://www.youtube.com/watch?v=7iUiVa2tfFo
-pause
 
-
-
+:FuckYouLoop
+rem Displays the message
+echo get fucked by madly
+goto FuckYouLoop
